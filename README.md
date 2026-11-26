@@ -3,9 +3,12 @@
 
 Your Android Service Toolkit
 
-A powerful Termux-based tool designed to bring PC-like servicing capabilities to your Android device through OTG.
+A powerful Termux-based tool designed to bring PC-like servicing and capabilities to your Android device through OTG.
 
-Control. Connect. Service.
+Exclusive: 
+- Brom TOOLS ( NOT TESTED YET )
+- SAMSUNG TOOLS ( NOT TESTED YET )
+- MITOOLS
 
 ---
 
