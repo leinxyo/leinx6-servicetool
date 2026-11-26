@@ -7,7 +7,7 @@ A powerful Termux-based tool designed to bring PC-like servicing and capabilitie
 
 Exclusive: 
 - Brom TOOLS ( NOT TESTED YET )
-- SAMSUNG TOOLS ( NOT TESTED YET )
+- ODIN TOOLS ( NOT TESTED YET )
 - MITOOLS
 
 ---
