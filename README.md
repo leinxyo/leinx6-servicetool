@@ -6,7 +6,7 @@ A tool for termux that gives you all pc functions through otg !
 
 - Download Termux & Termux api.
 - Run First : termux-setup-storage
-- 
+ 
 
 1 - Sign up in :
  https://leinx6cloud.pythonanywhere.com
