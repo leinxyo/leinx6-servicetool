@@ -20,8 +20,10 @@ Before starting, make sure you have:
 Initial Setup
 
 Open Termux and run:
-
+```bash
 termux-setup-storage
+```
+
 
 Grant the requested storage permissions.
 
@@ -44,12 +46,16 @@ Visit the official Leinx6 Cloud website:
 🟣 STEP 2 — INSTALL SERVICETOOL
 
 Once the token command has been executed successfully, run:
-
+```bash
 servicetool --setup
+```
+
 
 When prompted for the setup password, enter:
 
+```bash
 lowleveltools
+```
 
 ---
 
@@ -70,8 +76,10 @@ When prompted to install MiTools, you will see:
 Download MiTools? (Y/N)
 
 Enter:
-
+```bash
 Y
+```
+
 
 Then press Enter to continue.
 
@@ -96,7 +104,9 @@ Once everything is installed, you don't need to repeat the setup process.
 
 Simply open Termux and run:
 
+```bash
 servicetool
+```
 
 That's it!
 
