@@ -37,7 +37,7 @@ Visit the official Leinx6 Cloud website:
 🌐 https://leinx6cloud.pythonanywhere.com
 
 1. Create your account.
-2. Log in using your username and password.
+2. Log in using your username and password or your google account .
 3. Locate your cURL Token.
 4. Copy the token and paste it into your Termux terminal.
 5. Run the command provided by the website.
