@@ -116,4 +116,4 @@ LEINX6 SERVICE TOOL
 
 Android Servicing • OTG • ADB • Termux
 
-Made for the Android community by Leinx6.
+Made for the Android community by Leinx6 !
