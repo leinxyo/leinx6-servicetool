@@ -21,15 +21,6 @@ Before starting, make sure you have:
 - USB OTG support
 - A compatible target device
 
-Initial Setup
-
-Open Termux and run:
-```bash
-termux-setup-storage
-```
-
-
-Grant the requested storage permissions.
 
 ---
 
@@ -75,17 +66,6 @@ Enter your account credentials when requested.
 
 The tool will begin downloading its required files.
 
-When prompted to install MiTools, you will see:
-
-Download MiTools? (Y/N)
-
-Enter:
-```bash
-Y
-```
-
-
-Then press Enter to continue.
 
 Wait for the installation process to finish.
 
