@@ -45,20 +45,12 @@ Once the token command has been executed successfully, run:
 servicetool --setup
 ```
 
-
-When prompted for the setup password, enter:
-
-```bash
-lowleveltools
-```
-
 ---
 
 🟢 STEP 3 — LOGIN
 
-After the setup process, log in through the Termux terminal using the same account you created on the Leinx6 Cloud website.
+After the setup process, log in through the Termux terminal using the same Google account you created on the Leinx6 Cloud website.
 
-Enter your account credentials when requested.
 
 ---
 
