@@ -1,7 +1,7 @@
 ![Leinx6 Fastboot Tools](banner.png)
 🛠️ LEINX6 — SERVICETOOL
 
-Your Android Service Toolkit
+Your Android Service Toolkit !
 
 A powerful Termux-based tool designed to bring PC-like servicing and capabilities to your Android device through OTG.
 
