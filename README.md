@@ -32,7 +32,7 @@ Visit the official Leinx6 Cloud website:
 
 1. Create your account.
 2. Log in using your Google account .
-3. Locate your cURL Token.
+3. CURL Token will pop-up .
 4. Copy the token and paste it into your Termux terminal.
 5. Run the command provided by the website.
 
